@@ -1,0 +1,16 @@
+{
+  "discord_id":
+  {
+    "Rivi":
+    {
+      "race": "kobold",
+      "class": "mystic",
+      "str": 15,
+      "dex": 14,
+      "con": 13,
+      "int": 12,
+      "wis": 11,
+      "cha": 10
+    }
+  }
+}
